@@ -1,8 +1,3 @@
-# YouTube_downloader
-The program you've described seems to be a YouTube downloader built using the `pytube` library. Here's an expanded description:
-
----
-
 ## YouTube Downloader
 
 This program is designed to facilitate the downloading of videos from YouTube. It utilizes `pytube`, a lightweight, Pythonic, and dependency-free library, both as a backend engine and potentially as a command-line utility for downloading YouTube videos.
@@ -44,6 +39,3 @@ This program is designed to facilitate the downloading of videos from YouTube. I
 
 The YouTube downloader program leverages the `pytube` library along with Python to provide a robust and efficient solution for downloading videos from YouTube. With its lightweight nature and Pythonic interface, it offers a seamless experience for users to access and save their favorite videos from the platform. Additionally, the potential inclusion of a command-line interface enhances its usability and flexibility, catering to a wide range of users with varying preferences and requirements.
 
---- 
-
-Feel free to customize this description further based on additional features or details of your program!
